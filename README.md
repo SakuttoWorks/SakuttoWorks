@@ -1,16 +1,31 @@
-## Hi there 👋
+### 👋 サクッと！自動化工房 (Sakutto Works)
 
-<!--
-**SakuttoWorks/SakuttoWorks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**「面倒な作業を、サクッと解決。」**
+中小企業・個人事業主・投資家のためのPython自動化ツール開発所です。
+「環境構築不要」「黒い画面を見せない」をモットーに、現場で本当に役立つツールを公開しています。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🏪 Tool Lineup (BOOTH)
+現在、以下のツールを配布・開発中です。
+
+| Status | Tool Name | Description |
+| :---: | :--- | :--- |
+| 🟢 **発売中** | **[サクッと！株価ノート](https://sakuttoworks.booth.pm/items/7830324)** | 1クリックで株価収集＆Excelグラフ作成を全自動化。 |
+| 🚧 **開発中** | **サクッと！リスト作成** | Googleマップから店舗情報を抽出して営業リストを作成。 |
+| 📅 **計画中** | **サクッと！請求書メーカー** | テンプレート入力で請求書・納品書PDFを一括作成。 |
+| 📅 **計画中** | **サクッと！画像コンバーター** | 画像のリサイズ・形式変換・OCR（文字起こし）を自動化。 |
+
+👉 **[公式ショップ（BOOTH）ですべて見る](https://sakuttoworks.booth.pm)**
+
+---
+
+#### 🔗 Links & Media
+- 🛒 **BOOTH (Official Shop):** [sakuttoworks.booth.pm](https://sakuttoworks.booth.pm)
+  <br>Tools available as ready-to-use `.exe` files. (No Python setup required)
+  
+- 📺 **YouTube:** [サクッと！自動化工房](https://www.youtube.com/channel/UCqb-XuSE-Zz2hLbFo8dXRAQ)
+  <br>ツールの動作デモや活用法をショート動画で紹介中。
+
+---
+![SakuttoWorks's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakuttoWorks&show_icons=true&theme=radical)
