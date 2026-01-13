@@ -21,8 +21,8 @@
 ---
 
 #### 🔗 Links & Media
-- 🛒 **BOOTH (Official Shop):** [sakuttoworks.booth.pm](https://sakuttoworks.booth.pm)
-  <br>Tools available as ready-to-use `.exe` files. (No Python setup required)
+- 🛒 **BOOTH (公式ショップ):** [sakuttoworks.booth.pm](https://sakuttoworks.booth.pm)
+  <br>面倒な設定は不要。すぐに使える「実行ファイル（.exe）」を配布しています。
   
 - 📺 **YouTube:** [サクッと！自動化工房](https://www.youtube.com/channel/UCqb-XuSE-Zz2hLbFo8dXRAQ)
   <br>ツールの動作デモや活用法をショート動画で紹介中。
