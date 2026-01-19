@@ -27,4 +27,6 @@
 - 📺 **YouTube:** [サクッと！自動化工房](https://www.youtube.com/channel/UCqb-XuSE-Zz2hLbFo8dXRAQ)
   <br>ツールの動作デモや活用法をショート動画で紹介中。
 
+© 2026 サクッと！自動化工房
+
 ---
