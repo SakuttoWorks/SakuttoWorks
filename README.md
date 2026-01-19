@@ -28,4 +28,3 @@
   <br>ツールの動作デモや活用法をショート動画で紹介中。
 
 ---
-![SakuttoWorks's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakuttoWorks&show_icons=true&theme=radical)
