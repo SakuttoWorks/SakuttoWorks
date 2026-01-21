@@ -11,7 +11,7 @@
 
 | Status | Tool Name | Description |
 | :---: | :--- | :--- |
-| 🟢 **発売中** | **[サクッと！リスト作成](https://sakuttoworks.booth.pm/items/7894267)** | Googleマップから店舗情報を抽出して営業リストを自動作成。 |
+| 🟢 **発売中** | **[サクッと！リスト作成](https://sakuttoworks.booth.pm/items/7894267)** | Googleマップから店舗情報を抽出して営業リストを自動作成。<br>👉 **[詳細・解説記事 (Note)](https://note.com/sakutto_works/n/nf161ae773d0b)** |
 | 🟢 **発売中** | **[サクッと！株価ノート](https://sakuttoworks.booth.pm/items/7830324)** | 1クリックで株価収集＆Excelグラフ作成を全自動化。 |
 | 🚧 **2月公開** | **サクッと！請求書メーカー** | 【脱サブスク】月額無料・Excel不要の爆速請求書発行ツール。 |
 
@@ -22,7 +22,7 @@
 #### 🔗 Links & Media
 **「ツールの販売」と「技術・ノウハウの解説」の2軸で活動しています。**
 
-- 📝 **Note (公式ブログ):** [Coming Soon...]
+- 📝 **Note (公式ブログ):** [note.com/sakutto_works](https://note.com/sakutto_works)
   <br>ツールの活用事例や、開発の裏側（技術解説）を記事にしています。
 
 - 🛒 **BOOTH (公式ショップ):** [sakuttoworks.booth.pm](https://sakuttoworks.booth.pm)
