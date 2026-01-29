@@ -1,48 +1,57 @@
-### 👋 サクッと！自動化工房 (Sakutto Works)
+# 👋 サクッと！自動化工房 (Sakutto Works)
 
-**「面倒な作業を、サクッと解決。」**
-**"Solving complexities, instantly."**
+<p align="left">
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Focus-AI%20Automation-orange?style=for-the-badge" alt="AI Automation">
+  <img src="https://img.shields.io/badge/Market-Global%20%26%20Japan-green?style=for-the-badge" alt="Market">
+</p>
+
+> **「面倒な作業を、サクッと解決。」**
+> **"Solving complexities, instantly. Empowering agents, globally."**
 
 中小企業・個人事業主・投資家のためのPython自動化ツール開発所です。
-「環境構築不要」「黒い画面を見せない」をモットーに、現場で本当に役立つ買い切りツールを公開しています。
+「環境構築不要」「黒い画面を見せない」をコンセプトに、現場で即戦力となる買い切り型ツールを提供しています。
 
 ---
 
-#### 🚀 2026 Global AI Project (In Development)
-**Targeting the Global AI Agent Economy**
-I am currently developing machine-readable assets and infrastructure for the 2026 AI market.
+### 🚀 2026 Global AI Project: Infrastructure for Agents
+**AIエージェント経済圏に向けた次世代インフラの開発**
+2026年、AIは「答える」から「動く」フェーズへ。マシンが理解し、自律的に動作するためのアセットを構築しています。
 
-- **Vertical MCP Servers:** High-performance Model Context Protocol servers for specialized industries.
-- **RAG-Ready Datasets:** High-quality synthetic data for LLM optimization.
-- **AEO (AI Engine Optimization):** Establishing "llms.txt" standards for autonomous AI crawlers.
+- **Vertical MCP Servers:** 特定業界に特化した高精度Model Context Protocolサーバー。
+- **RAG-Ready Datasets:** LLMの精度を極限まで高める、構造化された高品質合成データ。
+- **AEO (AI Engine Optimization):** 自律型クローラーに最適化された「llms.txt」標準の策定。
 
-*Global payments & licensing will be handled via Lemon Squeezy / Polar.sh.*
+*Global payments & licensing are handled via **Lemon Squeezy** / **Polar.sh**.*
 
 ---
 
-#### 🏪 Current Tool Lineup (Japan Market)
-現在、日本国内向けに以下のツールを開発・配布しています。これらの実績をベースに、グローバルなAI自動化へと拡張中です。
+### 🏪 Current Tool Lineup (Japan Market)
+日本国内の業務を効率化する実用ツール群。培った自動化ノウハウを順次グローバル展開中です。
 
-| Status | Tool Name | Description |
+| ステータス | ツール名 | 概要・特徴 |
 | :---: | :--- | :--- |
-| 🟢 **発売中** | **[サクッと！リスト作成](https://sakuttoworks.booth.pm/items/7894267)** | Googleマップから店舗情報を抽出して営業リストを自動作成。<br>👉 **[詳細・解説記事 (Note)](https://note.com/sakutto_works/n/nf161ae773d0b)** |
-| 🟢 **発売中** | **[サクッと！株価ノート](https://sakuttoworks.booth.pm/items/7830324)** | 1クリックで株価収集＆Excelグラフ作成を全自動化。 |
-| 🚧 **2月中旬公開** | **サクッと！請求書メーカー** | 【脱サブスク】月額無料・Excel不要の爆速請求書発行ツール。 |
+| 🟢 **発売中** | **[サクッと！リスト作成](https://sakuttoworks.booth.pm/items/7894267)** | Googleマップから店舗情報を抽出。営業リスト作成を100倍速に。 |
+| 🟢 **発売中** | **[サクッと！株価ノート](https://sakuttoworks.booth.pm/items/7830324)** | 1クリックで主要株価を収集＆Excelグラフ化。投資判断を迅速に。 |
+| 🚧 **2月中旬** | **サクッと！請求書メーカー** | **【脱サブスク】** 月額無料・Excel不要。ブラウザ完結の爆速発行。 |
 
 👉 **[Official Store (BOOTH)](https://sakuttoworks.booth.pm)**
 
 ---
 
-#### 🔗 Links & Media
-**「ツールの販売」と「技術・ノウハウの解説」の2軸で活動しています。**
+### 🔗 Links & Media
+**「ツールの提供」と「技術の民主化」の2軸で活動中。**
 
-- 📝 **Note (Official Blog):** [note.com/sakutto_works](https://note.com/sakutto_works)
-- 🛒 **BOOTH (Official Shop):** [sakuttoworks.booth.pm](https://sakuttoworks.booth.pm)
-- 📺 **YouTube:** [Demo Videos](https://www.youtube.com/channel/UCqb-XuSE-Zz2hLbFo8dXRAQ)
+- 📝 **[Note (Official Blog)](https://note.com/sakutto_works)** : 開発秘話や自動化Tips
+- 🛒 **[BOOTH (Official Shop)](https://sakuttoworks.booth.pm)** : 国内向け即戦力ツール販売
+- 📺 **[YouTube](https://www.youtube.com/channel/UCqb-XuSE-Zz2hLbFo8dXRAQ)** : ツールの動作デモを公開中
 
 ---
 
-#### 🛡 Verification for Partners
-This profile serves as a track record of my commercial activities and technical capabilities. I am a verified developer of automated Python solutions, now expanding into the global MCP and API market.
+### 🛡 Verification for Partners
+本プロファイルは、Sakutto Worksの商用実績と技術力を示す公式ステートメントです。
+Pythonによるローカル自動化の専門家として、現在はグローバルな **MCP (Model Context Protocol)** および **APIエコノミー** への架け橋となるソリューションを展開しています。
 
-© 2026 サクッと！自動化工房 / Sakutto Works
+<p align="center">
+  © 2026 サクッと！自動化工房 / Sakutto Works
+</p>
