@@ -27,7 +27,7 @@ I am currently developing machine-readable assets and infrastructure for the 202
 | :---: | :--- | :--- |
 | 🟢 **発売中** | **[サクッと！リスト作成](https://sakuttoworks.booth.pm/items/7894267)** | Googleマップから店舗情報を抽出して営業リストを自動作成。<br>👉 **[詳細・解説記事 (Note)](https://note.com/sakutto_works/n/nf161ae773d0b)** |
 | 🟢 **発売中** | **[サクッと！株価ノート](https://sakuttoworks.booth.pm/items/7830324)** | 1クリックで株価収集＆Excelグラフ作成を全自動化。 |
-| 🚧 **2月公開** | **サクッと！請求書メーカー** | 【脱サブスク】月額無料・Excel不要の爆速請求書発行ツール。 |
+| 🚧 **2月中旬公開** | **サクッと！請求書メーカー** | 【脱サブスク】月額無料・Excel不要の爆速請求書発行ツール。 |
 
 👉 **[Official Store (BOOTH)](https://sakuttoworks.booth.pm)**
 
