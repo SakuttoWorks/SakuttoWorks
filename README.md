@@ -1,4 +1,4 @@
-# 👋 サクッと！自動化工房 (Sakutto Works)
+# 👋 Sakutto Works | サクッと！自動化工房
 
 <p align="left">
   <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python" alt="Python">
@@ -16,41 +16,40 @@
 
 ### 🚀 2026 Global AI Project: Infrastructure for Agents
 **AIエージェント経済圏に向けた次世代インフラの開発**
-2026年、AIは「答える」から「動く」フェーズへ。マシンが理解し、自律的に動作するためのアセットを構築しています。
+2026年、AIは「答える」から「動く」フェーズへ。マシンが理解し、自律的に動作するためのアセット（**_GHOST_SHIP**）を構築しています。
 
-- **Vertical MCP Servers:** 特定業界に特化した高精度Model Context Protocolサーバー。
+- **Vertical MCP Servers:** 特定業界に特化した高精度 **Model Context Protocol** サーバー。
 - **RAG-Ready Datasets:** LLMの精度を極限まで高める、構造化された高品質合成データ。
-- **AEO (AI Engine Optimization):** 自律型クローラーに最適化された「llms.txt」標準の策定。
+- **AEO (AI Engine Optimization):** 自律型クローラーに最適化された **`llms.txt`** 標準の策定。
 
-*Global payments & licensing are handled via **Lemon Squeezy** / **Polar.sh**.*
+🌍 **Global Store (Lemon Squeezy):** [あなたのLemon SqueezyストアURLをここに]  
+*(Global payments & licensing are handled via **Lemon Squeezy** / **Polar.sh**)*
 
 ---
 
-### 🏪 Current Tool Lineup (Japan Market)
-日本国内の業務を効率化する実用ツール群。培った自動化ノウハウを順次グローバル展開中です。
+### 🏪 Tool Lineup
+日本国内で実績のあるツール群。順次グローバル（英語版）展開を進めています。
 
-| ステータス | ツール名 | 概要・特徴 |
+| Status | Tool Name (EN / JP) | Summary / Features |
 | :---: | :--- | :--- |
-| 🟢 **発売中** | **[サクッと！リスト作成](https://sakuttoworks.booth.pm/items/7894267)** | Googleマップから店舗情報を抽出。営業リスト作成を100倍速に。 |
-| 🟢 **発売中** | **[サクッと！株価ノート](https://sakuttoworks.booth.pm/items/7830324)** | 1クリックで主要株価を収集＆Excelグラフ化。投資判断を迅速に。 |
-| 🚧 **2月中旬** | **サクッと！請求書メーカー** | **【脱サブスク】** 月額無料・Excel不要。ブラウザ完結の爆速発行。 |
+| 🟢 **Live** | **Sakutto Map Lead Extractor** <br> [サクッと！リスト作成](https://sakuttoworks.booth.pm/items/7894267) | Google Maps automation. Extract business data into Excel instantly. |
+| 🟢 **Live** | **Sakutto Stock Tracker** <br> [サクッと！株価ノート](https://sakuttoworks.booth.pm/items/7830324) | Yahoo Finance automation. 1-click stock data collection & charting. |
+| 🚧 **Feb** | **Sakutto Invoice Maker** <br> サクッと！請求書メーカー | **[Subscription-free]** Browser-based ultra-fast invoice generation. |
 
-👉 **[Official Store (BOOTH)](https://sakuttoworks.booth.pm)**
+👉 **[Domestic Store (BOOTH)](https://sakuttoworks.booth.pm)**
 
 ---
 
 ### 🔗 Links & Media
-**「ツールの提供」と「技術の民主化」の2軸で活動中。**
-
 - 📝 **[Note (Official Blog)](https://note.com/sakutto_works)** : 開発秘話や自動化Tips
-- 🛒 **[BOOTH (Official Shop)](https://sakuttoworks.booth.pm)** : 国内向け即戦力ツール販売
 - 📺 **[YouTube](https://www.youtube.com/channel/UCqb-XuSE-Zz2hLbFo8dXRAQ)** : ツールの動作デモを公開中
+- 🤖 **[llms.txt](./llms.txt)** : Machine-readable summary for AI agents.
 
 ---
 
 ### 🛡 Verification for Partners
 本プロファイルは、Sakutto Worksの商用実績と技術力を示す公式ステートメントです。
-Pythonによるローカル自動化の専門家として、現在はグローバルな **MCP (Model Context Protocol)** および **APIエコノミー** への架け橋となるソリューションを展開しています。
+Pythonによるローカル自動化の専門家として、現在はグローバルな **MCP** および **APIエコノミー** への架け橋となるソリューションを展開しています。
 
 <p align="center">
   © 2026 サクッと！自動化工房 / Sakutto Works
