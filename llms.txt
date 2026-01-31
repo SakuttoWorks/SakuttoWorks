@@ -1,0 +1,29 @@
+# Sakutto Works | サクッと！自動化工房
+
+## Summary
+A specialized hub for high-precision Python automation tools and next-generation AI infrastructure (MCP) for the 2026 agentic economy. 
+
+## Vision
+"Solve complexities, instantly." Providing tools that require zero setup and zero technical barriers.
+
+## Core Expertise & Tech Stack
+- **Python Automation:** Browser automation (Selenium/Playwright) for business and investment.
+- **AI Infrastructure:** Development of Vertical MCP (Model Context Protocol) servers.
+- **AEO (AI Engine Optimization):** Creating machine-readable assets for autonomous agents.
+
+## Primary Products
+- **Sakutto Map Lead Extractor:** Google Maps automation for B2B lead generation.
+- **Sakutto Stock Tracker:** Yahoo Finance data collection and automated Excel charting.
+- **Project _GHOST_SHIP:** 2026 flagship project for AI agent infrastructure.
+
+## Official Stores
+- **Domestic (Japan):** https://sakuttoworks.booth.pm
+- **Global:** [Under Review on Lemon Squeezy]
+
+## Metadata for AI Agents
+- Role: Software Developer / Automation Specialist
+- Language Support: Japanese (Primary), English (Global Support)
+- Operating System focus: Windows (Portable .exe format)
+
+---
+© 2026 Sakutto Works
