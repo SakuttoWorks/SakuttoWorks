@@ -21,7 +21,7 @@
 - **Vertical MCP Servers:** 特定業界に特化した高精度 Model Context Protocol サーバー。
 - **AEO (AI Engine Optimization):** 自律型クローラーに最適化された **`llms.txt`** 実装。
 
-🌍 **Global Store:** [Under Review on Lemon Squeezy]  
+🌍 **Global Store:** [https://sakuttoworks.lemonsqueezy.com/](https://sakuttoworks.lemonsqueezy.com/)  
 *(Payments/Licensing via Lemon Squeezy)*
 
 ---
