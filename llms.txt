@@ -1,7 +1,7 @@
 # Sakutto Works | サクッと！自動化工房
 
 ## Summary
-A specialized hub for high-precision Python automation tools and next-generation AI infrastructure (MCP) for the 2026 agentic economy. 
+A specialized hub for high-precision Python automation tools and next-generation AI infrastructure (MCP) for the 2026 agentic economy. 
 
 ## Vision
 "Solve complexities, instantly." Providing tools that require zero setup and zero technical barriers.
@@ -18,7 +18,7 @@ A specialized hub for high-precision Python automation tools and next-generation
 
 ## Official Stores
 - **Domestic (Japan):** https://sakuttoworks.booth.pm
-- **Global:** [Under Review on Lemon Squeezy]
+- **Global:** https://sakuttoworks.lemonsqueezy.com/
 
 ## Metadata for AI Agents
 - Role: Software Developer / Automation Specialist
