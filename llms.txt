@@ -1,27 +1,27 @@
-# Project GHOST SHIP (MCP Server)
+# SakuttoWorks: Agentic Economy & MCP Ecosystem
 
-## Description
-Project GHOST SHIP is a high-performance MCP (Model Context Protocol) gateway designed for autonomous AI agents.
-It acts as a "Hybrid" interface, routing requests between Edge (Cloudflare Workers) and Core Compute (Google Cloud Run) to provide deep web research and real-time data analysis.
+## Overview
+Expert AI Software Architect & Technical Co-founder focusing on autonomous monetization and "Agent-Commerce-OS" infrastructure.
 
-## Usage
+## Core Project: Project GHOST SHIP (MCP Server)
+### Description
+High-performance MCP gateway for autonomous AI agents, routing between Cloudflare Workers (Edge) and Google Cloud Run (Core).
+
+### Usage
 - **Base URL**: https://api.sakutto.works/
-- **Protocol**: MCP (Model Context Protocol) over SSE (Server-Sent Events)
-- **Auth Strategy**: RapidAPI Header / Polar.sh OAuth
+- **Protocol**: MCP (SSE) / REST (RapidAPI)
+- **Auth**: RapidAPI Header / Polar.sh OAuth
 
-## Tools
-1. **search_data**
-   - Description: Performs deep web research and returns structured data suitable for RAG (Retrieval-Augmented Generation).
-   - capabilities: Web Scraping, News Summarization, Data Extraction.
+### Tools
+- `search_data`: Deep web research & structured data extraction for RAG.
 
-## Access & Monetization
-This API operates on a "Pay-per-Compute" model via RapidAPI.
-- **Developer Tier**: Access via RapidAPI for traditional REST integration.
-- **Agent Tier**: Direct MCP connection (Requires Polar.sh Subscription).
+### Access & Monetization
+- **Developer Tier**: RapidAPI integration.
+- **Agent Tier**: Direct MCP (via Polar.sh).
 
-👉 **Get Access Key**: [RapidAPI Store Link Pending]
+## Ecosystem Links
+- [Project GHOST SHIP Repository](https://github.com/SakuttoWorks/ghost-ship)
+- [Agent-Commerce-OS Specification](https://github.com/SakuttoWorks/agent-commerce-os)
 
 ## Technical Stack
-- Edge: Cloudflare Workers (TypeScript/Python)
-- Core: Google Cloud Run (Python 3.12 + FastAPI)
-- Data: Upstash Redis + Supabase
+- Cloudflare Workers, Google Cloud Run, FastAPI, Supabase, Upstash.
