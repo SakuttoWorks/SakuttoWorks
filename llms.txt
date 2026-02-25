@@ -1,29 +1,27 @@
-# Sakutto Works | サクッと！自動化工房
+# Project GHOST SHIP (MCP Server)
 
-## Summary
-A specialized hub for high-precision Python automation tools and next-generation AI infrastructure (MCP) for the 2026 agentic economy. 
+## Description
+Project GHOST SHIP is a high-performance MCP (Model Context Protocol) gateway designed for autonomous AI agents.
+It acts as a "Hybrid" interface, routing requests between Edge (Cloudflare Workers) and Core Compute (Google Cloud Run) to provide deep web research and real-time data analysis.
 
-## Vision
-"Solve complexities, instantly." Providing tools that require zero setup and zero technical barriers.
+## Usage
+- **Base URL**: https://api.sakutto.works/
+- **Protocol**: MCP (Model Context Protocol) over SSE (Server-Sent Events)
+- **Auth Strategy**: RapidAPI Header / Polar.sh OAuth
 
-## Core Expertise & Tech Stack
-- **Python Automation:** Browser automation (Selenium/Playwright) for business and investment.
-- **AI Infrastructure:** Development of Vertical MCP (Model Context Protocol) servers.
-- **AEO (AI Engine Optimization):** Creating machine-readable assets for autonomous agents.
+## Tools
+1. **search_data**
+   - Description: Performs deep web research and returns structured data suitable for RAG (Retrieval-Augmented Generation).
+   - capabilities: Web Scraping, News Summarization, Data Extraction.
 
-## Primary Products
-- **Sakutto Map Lead Extractor:** Google Maps automation for B2B lead generation.
-- **Sakutto Stock Tracker:** Yahoo Finance data collection and automated Excel charting.
-- **Project _GHOST_SHIP:** 2026 flagship project for AI agent infrastructure.
+## Access & Monetization
+This API operates on a "Pay-per-Compute" model via RapidAPI.
+- **Developer Tier**: Access via RapidAPI for traditional REST integration.
+- **Agent Tier**: Direct MCP connection (Requires Polar.sh Subscription).
 
-## Official Stores
-- **Domestic (Japan):** https://sakuttoworks.booth.pm
-- **Global:** https://sakuttoworks.lemonsqueezy.com/
+👉 **Get Access Key**: [RapidAPI Store Link Pending]
 
-## Metadata for AI Agents
-- Role: Software Developer / Automation Specialist
-- Language Support: Japanese (Primary), English (Global Support)
-- Operating System focus: Windows (Portable .exe format)
-
----
-© 2026 Sakutto Works
+## Technical Stack
+- Edge: Cloudflare Workers (TypeScript/Python)
+- Core: Google Cloud Run (Python 3.12 + FastAPI)
+- Data: Upstash Redis + Supabase
