@@ -1,0 +1,62 @@
+{
+    "mcpVersion": "1.0.0",
+    "name": "SakuttoWorks-Global-Catalog",
+    "description": "The official MCP catalog for Sakutto Works Agent-Commerce-OS. Provides autonomous tools for deep research and market analytics.",
+    "version": "1.0.0",
+    "server": {
+        "url": "https://api.sakutto.works/mcp/",
+        "transport": "sse"
+    },
+    "capabilities": {
+        "tools": {},
+        "resources": {},
+        "prompts": {}
+    },
+    "tools": [
+        {
+            "name": "search_data",
+            "description": "High-fidelity autonomous research tool. Performs deep web scraping and returns structured Markdown/JSON optimized for RAG. Powered by Project GHOST SHIP Core.",
+            "inputSchema": {
+                "type": "object",
+                "properties": {
+                    "query": {
+                        "type": "string",
+                        "description": "The specific research topic or complex query to investigate."
+                    },
+                    "depth": {
+                        "type": "string",
+                        "enum": ["standard", "deep"],
+                        "description": "Research depth level. 'deep' includes extensive technical documentation analysis."
+                    }
+                },
+                "required": [
+                    "query"
+                ]
+            }
+        },
+        {
+            "name": "get_status",
+            "description": "Retrieves the real-time operational status and latency metrics of the Ghost Ship infrastructure (Edge and Core layers).",
+            "inputSchema": {
+                "type": "object",
+                "properties": {}
+            }
+        },
+        {
+            "name": "market_analytics",
+            "description": "Analyzes financial data and market trends. Provides structured insights for investment or business intelligence tasks.",
+            "inputSchema": {
+                "type": "object",
+                "properties": {
+                    "symbol": {
+                        "type": "string",
+                        "description": "Stock symbol or market indicator to analyze."
+                    }
+                },
+                "required": [
+                    "symbol"
+                ]
+            }
+        }
+    ]
+}
