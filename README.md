@@ -1,53 +1,53 @@
 # Sakutto Works | Architecting the Agentic Economy
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Stack-Cloudflare_Workers_%26_Cloud_Run-blue?style=for-the-badge" alt="Stack">
-  <img src="https://img.shields.io/badge/Focus-Agentic_Economy_%26_MCP-orange?style=for-the-badge" alt="Focus">
-  <img src="https://img.shields.io/badge/Market-Global_API_Economy-green?style=for-the-badge" alt="Market">
+<img src="https://img.shields.io/badge/Architecture-Hybrid_Edge_Core-blue?style=for-the-badge" alt="Architecture">
+<img src="https://img.shields.io/badge/Protocol-MCP_%26_SSE-orange?style=for-the-badge" alt="Protocol">
+<img src="https://img.shields.io/badge/Monetization-Polar.sh_%26_RapidAPI-green?style=for-the-badge" alt="Monetization">
 </p>
 
-> **"Empowering Autonomous Agents. Scaling the Global Machine Economy."**
+"Scaling the Global Machine-to-Machine Economy through Autonomous AI Infrastructure."
 
-Technical Co-founder and Lead Architect specializing in serverless infrastructure, autonomous monetization (BaaS for Agents), and high-performance MCP (Model Context Protocol) implementations.
+Technical Co-founder and Senior Lead Architect specializing in high-performance serverless ecosystems. I build **"Agent-Commerce-OS"**, a production-ready BaaS (Backend-as-a-Service) that enables AI agents to autonomously discover, purchase, and execute tools.
 
----
+## 🚀 Flagship Project: [Project GHOST SHIP]
+**The First Monetized MCP Gateway for Autonomous Agents.**
 
-### 🚀 Strategic Mission: Project GHOST SHIP
-**Building Production-Ready, Monetized MCP Infrastructure.**
-Transitioning AI from conversational assistants to autonomous economic actors.
+Project GHOST SHIP bridges the gap between conversational LLMs and real-world economic actions through a resilient, dual-layered architecture.
 
-- **Dual-Gateway Architecture:** Integrated Cloudflare Workers (Edge) and Google Cloud Run (Core) to serve both AI Agents (MCP/SSE) and Legacy Developers (REST).
-- **Monetization Engine:** Seamless usage-based billing integration via **Polar.sh** and **RapidAPI**.
-- **AEO (AI Engine Optimization):** Advanced implementation of `llms.txt` and `mcp.json` for seamless agent discovery.
+* **Layer A: The Intelligent Edge (Cloudflare Workers)**
+    * Low-latency SSE/MCP aggregation.
+    * Agent-aware Auth: Real-time rate limiting and billing validation via Polar.sh.
+    * A2A Logging: Encrypted intent/result logging for audit trails.
+* **Layer B: The Agentic Factory (Google Cloud Run)**
+    * Heavy compute & deep-web analysis via Python 3.13+.
+    * LLM-Native Output: Structured Markdown generation via Jina Reader/Firecrawl.
+* **Layer C: The Universal Vault (Supabase/R2)**
+    * Long-term vector memory and high-durability cold storage for agent logs.
 
-🌍 **Global Access:** [RapidAPI Store Link Pending] / [Lemon Squeezy](https://sakuttoworks.lemonsqueezy.com/)
+🌍 **Global Hubs:** [RapidAPI Store (REST)] / [Polar.sh (MCP Subscription)] / [Lemon Squeezy]
 
----
+## 🛠 Active MCP & API Assets
 
-### 🏪 Asset & Tool Lineup
+| Component | Protocol | Description |
+| :--- | :--- | :--- |
+| **GHOST-SHIP-PROXY** | MCP / SSE | Production gateway for autonomous research and structured data extraction. |
+| **INTELLI-B2B-DATA** | REST / JSON | High-fidelity business intelligence structuring for RAG pipelines. |
+| **QUANT-MARKET-V3** | MCP / REST | Real-time financial analytics and automated visualization engine. |
 
-| Status | Asset Name | Description |
-| :---: | :--- | :--- |
-| 🟢 **Live** | **GHOST SHIP Proxy** | High-performance gateway for autonomous research & RAG. |
-| 🟢 **Live** | **B2B Data Organizer** | Automated business intelligence and public data structuring. |
-| 🟢 **Live** | **Market Analytics Engine** | One-click financial data analysis and visualization. |
+👉 **[Access Global Store]**
 
-👉 **[Official Global Store](https://sakuttoworks.lemonsqueezy.com/)** / **[Domestic Store (BOOTH)](https://sakuttoworks.booth.pm)**
+## 🤖 Machine-Readable Resources
+*Optimized for AI Agents (AEO - AI Engine Optimization).*
 
----
+* `llms.txt` : High-level semantic context for LLM crawlers.
+* `mcp.json` : Dynamic tool definitions and endpoint discovery for MCP clients.
 
-### 🔗 Resources
-- 🤖 **[llms.txt](./llms.txt)**: Machine-readable context for AI Agent discovery.
-- 📝 **[Technical Blog](https://note.com/sakutto_works)**: Architecture deep-dives and automation insights.
-- 📺 **[Engineering Demo](https://www.youtube.com/channel/UCqb-XuSE-Zz2hLbFo8dXRAQ)**: Real-world autonomous workflow demonstrations.
-
----
-
-### 🛡 Engineering Standards
-- **Zero-Trust Security:** Every transaction validated at the intelligent edge.
-- **Semantic Data Modeling:** Designed for LLM-native self-documentation.
-- **Infinite Scalability:** Purely serverless architecture using Cloudflare & GCP.
+## 🛡 Engineering Principles (2026 Standard)
+* **Zero-Trust Logic:** Validation at the edge; execution in isolated environments.
+* **Semantic Naming:** Every variable and endpoint is optimized for LLM self-documentation.
+* **A2A Compliance:** Architecture designed to meet global AI regulation standards (EU AI Act).
 
 <p align="center">
-  © 2026 Sakutto Works - Architecting the Future of AI Autonomy
+© 2026 Sakutto Works - Enabling the Autonomy of Tomorrow
 </p>
