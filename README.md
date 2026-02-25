@@ -27,7 +27,7 @@ Project GHOST SHIP bridges the gap between conversational LLMs and real-world ec
 - **Layer C: The Universal Vault (Supabase/R2)**
   - Long-term vector memory and high-durability cold storage for agent logs.
 
-🌍 **Global Hubs:
+### 🌍 Global Hubs:
 - 👉 **[Access Global Store (Lemon Squeezy)](https://sakuttoworks.lemonsqueezy.com/)**
 - 👉 **[RapidAPI Store (Coming Soon)](#)**
 - 👉 **[Polar.sh (MCP Subscription)](#)**
