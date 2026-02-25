@@ -1,53 +1,53 @@
-# 👋 Sakutto Works | サクッと！自動化工房
+# Sakutto Works | Architecting the Agentic Economy
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/Focus-AI%20Automation-orange?style=for-the-badge" alt="AI Automation">
-  <img src="https://img.shields.io/badge/Market-Global%20%26%20Japan-green?style=for-the-badge" alt="Market">
+  <img src="https://img.shields.io/badge/Stack-Cloudflare_Workers_%26_Cloud_Run-blue?style=for-the-badge" alt="Stack">
+  <img src="https://img.shields.io/badge/Focus-Agentic_Economy_%26_MCP-orange?style=for-the-badge" alt="Focus">
+  <img src="https://img.shields.io/badge/Market-Global_API_Economy-green?style=for-the-badge" alt="Market">
 </p>
 
-> **「面倒な作業を、サクッと解決。」**
-> **"Solving complexities, instantly. Empowering agents, globally."**
+> **"Empowering Autonomous Agents. Scaling the Global Machine Economy."**
 
-中小企業・投資家・開発者のためのPython自動化ツール開発拠点です。  
-「環境構築不要」「即戦力」をコンセプトに、現場の課題を解決する買い切り型ツールを提供しています。
+Technical Co-founder and Lead Architect specializing in serverless infrastructure, autonomous monetization (BaaS for Agents), and high-performance MCP (Model Context Protocol) implementations.
 
 ---
 
-### 🚀 2026 Global Project: [_GHOST_SHIP]
-**AIエージェント経済圏に向けた次世代インフラの開発**
-2026年、AIは「答える」から「自律的に動く」フェーズへ。マシンが理解し、動作するための次世代アセットを構築しています。
+### 🚀 Strategic Mission: Project GHOST SHIP
+**Building Production-Ready, Monetized MCP Infrastructure.**
+Transitioning AI from conversational assistants to autonomous economic actors.
 
-- **Vertical MCP Servers:** 特定業界に特化した高精度 Model Context Protocol サーバー。
-- **AEO (AI Engine Optimization):** 自律型クローラーに最適化された **`llms.txt`** 実装。
+- **Dual-Gateway Architecture:** Integrated Cloudflare Workers (Edge) and Google Cloud Run (Core) to serve both AI Agents (MCP/SSE) and Legacy Developers (REST).
+- **Monetization Engine:** Seamless usage-based billing integration via **Polar.sh** and **RapidAPI**.
+- **AEO (AI Engine Optimization):** Advanced implementation of `llms.txt` and `mcp.json` for seamless agent discovery.
 
-🌍 **Global Store:** [https://sakuttoworks.lemonsqueezy.com/](https://sakuttoworks.lemonsqueezy.com/)  
-*(Payments/Licensing via Lemon Squeezy)*
+🌍 **Global Access:** [RapidAPI Store Link Pending] / [Lemon Squeezy](https://sakuttoworks.lemonsqueezy.com/)
 
 ---
 
-### 🏪 Tool Lineup (Domestic)
-日本国内で実績のある実用ツール群。順次グローバル展開を進行中。
+### 🏪 Asset & Tool Lineup
 
-| Status | Tool Name (EN / JP) | Summary |
+| Status | Asset Name | Description |
 | :---: | :--- | :--- |
-| 🟢 **Live** | **Sakutto Local Researcher** <br> [サクッと！リスト作成](https://sakuttoworks.booth.pm/items/7894267) | Automated public business data organizer. |
-| 🟢 **Live** | **Sakutto Stock Analytics** <br> [サクッと！株価ノート](https://sakuttoworks.booth.pm/items/7830324) | One-click stock data analysis & Excel charting. |
+| 🟢 **Live** | **GHOST SHIP Proxy** | High-performance gateway for autonomous research & RAG. |
+| 🟢 **Live** | **B2B Data Organizer** | Automated business intelligence and public data structuring. |
+| 🟢 **Live** | **Market Analytics Engine** | One-click financial data analysis and visualization. |
 
-👉 **[Official Store (BOOTH)](https://sakuttoworks.booth.pm)**
-
----
-
-### 🔗 Links & Media
-- 🤖 **[llms.txt](./llms.txt)** : Machine-readable summary for AI agents.
-- 📝 **[Note (Blog)](https://note.com/sakutto_works)** : 開発秘話や自動化Tips
-- 📺 **[YouTube](https://www.youtube.com/channel/UCqb-XuSE-Zz2hLbFo8dXRAQ)** : ツールの動作デモ
+👉 **[Official Global Store](https://sakuttoworks.lemonsqueezy.com/)** / **[Domestic Store (BOOTH)](https://sakuttoworks.booth.pm)**
 
 ---
 
-### 🛡 Verification
-本プロファイルは、Sakutto Worksの技術力を示す公式ステートメントです。現在はグローバルな **MCP** および **APIエコノミー** への架け橋となるソリューションを展開しています。
+### 🔗 Resources
+- 🤖 **[llms.txt](./llms.txt)**: Machine-readable context for AI Agent discovery.
+- 📝 **[Technical Blog](https://note.com/sakutto_works)**: Architecture deep-dives and automation insights.
+- 📺 **[Engineering Demo](https://www.youtube.com/channel/UCqb-XuSE-Zz2hLbFo8dXRAQ)**: Real-world autonomous workflow demonstrations.
+
+---
+
+### 🛡 Engineering Standards
+- **Zero-Trust Security:** Every transaction validated at the intelligent edge.
+- **Semantic Data Modeling:** Designed for LLM-native self-documentation.
+- **Infinite Scalability:** Purely serverless architecture using Cloudflare & GCP.
 
 <p align="center">
-  © 2026 サクッと！自動化工房 / Sakutto Works
+  © 2026 Sakutto Works - Architecting the Future of AI Autonomy
 </p>
