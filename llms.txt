@@ -1,27 +1,44 @@
 # SakuttoWorks: Agentic Economy & MCP Ecosystem
 
 ## Overview
-Expert AI Software Architect & Technical Co-founder focusing on autonomous monetization and "Agent-Commerce-OS" infrastructure.
+Expert AI Software Architect & Technical Co-founder. Developing **Agent-Commerce-OS**, a production-ready BaaS (Backend-as-a-Service) framework optimized for autonomous monetization and AI agent tool execution.
 
-## Core Project: Project GHOST SHIP (MCP Server)
+## Flagship Project: Project GHOST SHIP (MCP Server)
 ### Description
-High-performance MCP gateway for autonomous AI agents, routing between Cloudflare Workers (Edge) and Google Cloud Run (Core).
+A high-performance, monetized MCP (Model Context Protocol) gateway utilizing a Hybrid Edge-Core architecture. Designed to bridge the gap between conversational LLMs and autonomous economic actions.
 
-### Usage
-- **Base URL**: https://api.sakutto.works/
-- **Protocol**: MCP (SSE) / REST (RapidAPI)
-- **Auth**: RapidAPI Header / Polar.sh OAuth
+### Hybrid Architecture (2026 Edition)
+- **Layer A: The Intelligent Edge (Cloudflare Workers)**
+  - Low-latency SSE/MCP aggregation and **Agent-aware Auth** via Polar.sh.
+  - Implements Zero-Trust security and A2A (Agent-to-Agent) logging.
+- **Layer B: The Agentic Factory (Google Cloud Run)**
+  - Heavy compute and deep research using Python 3.13+ and FastAPI.
+  - LLM-native Markdown generation via Jina Reader and Firecrawl.
+- **Layer C: The Universal Vault (Supabase / R2)**
+  - Long-term memory via pgvector and durable cold storage for agent logs.
+
+### Usage & Endpoints
+- **Base URL**: `https://api.sakutto.works/`
+- **MCP Endpoint**: `https://api.sakutto.works/mcp/`
+- **REST Endpoint**: `https://api.sakutto.works/rapidapi/`
+- **Protocol**: MCP over SSE / REST JSON.
 
 ### Tools
-- `search_data`: Deep web research & structured data extraction for RAG.
+- `search_data`: Autonomous deep-web research tool. Returns structured, RAG-optimized data.
+- `market_analytics`: One-click financial data analysis and autonomous visualization.
 
 ### Access & Monetization
-- **Developer Tier**: RapidAPI integration.
-- **Agent Tier**: Direct MCP (via Polar.sh).
+- **Agent Tier (A2A)**: Direct MCP connection with Metered Billing via **Polar.sh**.
+- **Developer Tier (B2B)**: Legacy REST integration via **RapidAPI**.
+- **Direct Purchase**: [Lemon Squeezy Store](https://sakuttoworks.lemonsqueezy.com/)
 
 ## Ecosystem Links
 - [Project GHOST SHIP Repository](https://github.com/SakuttoWorks/ghost-ship)
 - [Agent-Commerce-OS Specification](https://github.com/SakuttoWorks/agent-commerce-os)
 
 ## Technical Stack
-- Cloudflare Workers, Google Cloud Run, FastAPI, Supabase, Upstash.
+- Cloudflare Workers, Google Cloud Run, FastAPI, Supabase, Upstash Redis.
+
+## Engineering Standards
+- **AEO (AI Engine Optimization)**: Semantic naming and self-documenting structures for seamless LLM discovery.
+- **Compliance**: Designed for EU AI Act transparency and data integrity.
