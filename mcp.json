@@ -1,7 +1,7 @@
 {
     "mcpVersion": "1.0.0",
-    "name": "SakuttoWorks-Global-Catalog",
-    "description": "The official MCP catalog for Sakutto Works Agent-Commerce-OS. Provides autonomous tools for deep research and market analytics.",
+    "name": "SakuttoWorks-Agent-Commerce-OS-Catalog",
+    "description": "The official MCP catalog for Sakutto Works Agent-Commerce-OS. Provides autonomous tools for deep research, status monitoring, and market analytics.",
     "version": "1.0.0",
     "server": {
         "url": "https://api.sakutto.works/mcp/",
@@ -15,7 +15,7 @@
     "tools": [
         {
             "name": "search_data",
-            "description": "High-fidelity autonomous research tool. Performs deep web scraping and returns structured Markdown/JSON optimized for RAG. Powered by Project GHOST SHIP Core.",
+            "description": "High-fidelity autonomous research tool. Performs deep web scraping and returns structured Markdown/JSON optimized for RAG. Powered by Agent-Commerce-Core.",
             "inputSchema": {
                 "type": "object",
                 "properties": {
@@ -36,7 +36,7 @@
         },
         {
             "name": "get_status",
-            "description": "Retrieves the real-time operational status and latency metrics of the Ghost Ship infrastructure (Edge and Core layers).",
+            "description": "Retrieves real-time operational status and latency metrics of the Agent-Commerce-OS infrastructure (Gateway and Core layers).",
             "inputSchema": {
                 "type": "object",
                 "properties": {}
@@ -44,7 +44,7 @@
         },
         {
             "name": "market_analytics",
-            "description": "Analyzes financial data and market trends. Provides structured insights for investment or business intelligence tasks.",
+            "description": "Analyzes financial data and market trends via Agent-Commerce-Core. Provides structured insights for investment or business intelligence tasks.",
             "inputSchema": {
                 "type": "object",
                 "properties": {
