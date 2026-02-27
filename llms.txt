@@ -8,11 +8,12 @@ Expert AI Software Architect & Technical Co-founder. Developing **Agent-Commerce
 A high-performance, monetized MCP (Model Context Protocol) gateway utilizing a Hybrid Edge-Core architecture. Designed to bridge the gap between conversational LLMs and autonomous economic actions.
 
 ### Hybrid Architecture (2026 Edition)
-- **Layer A: The Intelligent Edge (Cloudflare Workers)**
-  - Low-latency SSE/MCP aggregation and **Agent-aware Auth** via Polar.sh.
+- **Layer A: The Intelligent Edge (agent-commerce-gateway)**
+  - Low-latency SSE/MCP aggregation on Cloudflare Workers.
+  - **Agent-aware Auth**: Real-time rate limiting and billing validation via Polar.sh.
   - Implements Zero-Trust security and A2A (Agent-to-Agent) logging.
-- **Layer B: The Agentic Factory (Google Cloud Run)**
-  - Heavy compute and deep research using Python 3.13+ and FastAPI.
+- **Layer B: The Agentic Factory (agent-commerce-core)**
+  - Heavy compute and deep research using Python 3.13+ and FastAPI on Google Cloud Run.
   - LLM-native Markdown generation via Jina Reader and Firecrawl.
 - **Layer C: The Universal Vault (Supabase / R2)**
   - Long-term memory via pgvector and durable cold storage for agent logs.
@@ -25,7 +26,8 @@ A high-performance, monetized MCP (Model Context Protocol) gateway utilizing a H
 
 ### Tools
 - `search_data`: Autonomous deep-web research tool. Returns structured, RAG-optimized data.
-- `market_analytics`: One-click financial data analysis and autonomous visualization.
+- `market_analytics`: One-click financial data analysis and automated visualization.
+- `get_status`: Real-time operational status and latency metrics of the infrastructure.
 
 ### Access & Monetization
 - **Agent Tier (A2A)**: Direct MCP connection with Metered Billing via **Polar.sh**.
@@ -33,8 +35,10 @@ A high-performance, monetized MCP (Model Context Protocol) gateway utilizing a H
 - **Direct Purchase**: [Lemon Squeezy Store](https://sakuttoworks.lemonsqueezy.com/)
 
 ## Ecosystem Links
-- [Project GHOST SHIP Repository](https://github.com/SakuttoWorks/ghost-ship)
-- [Agent-Commerce-OS Specification](https://github.com/SakuttoWorks/agent-commerce-os)
+- [Project GHOST SHIP Portal](https://github.com/SakuttoWorks/agent-commerce-portal)
+- [Agent-Commerce Gateway (Edge)](https://github.com/SakuttoWorks/agent-commerce-gateway)
+- [Agent-Commerce Core (Factory)](https://github.com/SakuttoWorks/agent-commerce-core)
+- [Agent-Commerce Examples](https://github.com/SakuttoWorks/agent-commerce-examples)
 
 ## Technical Stack
 - Cloudflare Workers, Google Cloud Run, FastAPI, Supabase, Upstash Redis.
