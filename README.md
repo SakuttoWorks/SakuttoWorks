@@ -12,17 +12,16 @@ Technical Co-founder and Senior Lead Architect specializing in high-performance 
 
 ---
 
-### 🚀 Flagship Project: [Project GHOST SHIP]
+### 🚀 Flagship Project: [Project GHOST SHIP](https://github.com/SakuttoWorks/agent-commerce-portal)
 **The First Monetized MCP Gateway for Autonomous Agents.**
 
 Project GHOST SHIP bridges the gap between conversational LLMs and real-world economic actions through a resilient, dual-layered architecture.
 
-- **Layer A: The Intelligent Edge (Cloudflare Workers)**
-  - Low-latency SSE/MCP aggregation.
+- **Layer A: The Intelligent Edge ([agent-commerce-gateway](https://github.com/SakuttoWorks/agent-commerce-gateway))**
+  - Low-latency SSE/MCP aggregation on Cloudflare Workers.
   - **Agent-aware Auth:** Real-time rate limiting and billing validation via Polar.sh.
-  - **A2A Logging:** Encrypted intent/result logging for audit trails.
-- **Layer B: The Agentic Factory (Google Cloud Run)**
-  - Heavy compute & deep-web analysis via Python 3.13+.
+- **Layer B: The Agentic Factory ([agent-commerce-core](https://github.com/SakuttoWorks/agent-commerce-core))**
+  - Heavy compute & deep-web analysis via Python 3.13+ on Google Cloud Run.
   - **LLM-Native Output:** Structured Markdown generation via Jina Reader/Firecrawl.
 - **Layer C: The Universal Vault (Supabase/R2)**
   - Long-term vector memory and high-durability cold storage for agent logs.
@@ -38,8 +37,8 @@ Project GHOST SHIP bridges the gap between conversational LLMs and real-world ec
 
 | Component | Protocol | Description |
 | :--- | :---: | :--- |
-| **GHOST-SHIP-PROXY** | MCP / SSE | Production gateway for autonomous research and structured data extraction. |
-| **INTELLI-B2B-DATA** | REST / JSON | High-fidelity business intelligence structuring for RAG pipelines. |
+| **GHOST-SHIP-GATEWAY** | MCP / SSE | Production-ready gateway for autonomous research and metered billing. |
+| **AGENT-COMMERCE-CORE** | REST / JSON | High-fidelity business intelligence structuring for RAG pipelines. |
 | **QUANT-MARKET-V3** | MCP / REST | Real-time financial analytics and automated visualization engine. |
 
 ---
