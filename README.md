@@ -12,34 +12,35 @@ Technical Co-founder and Senior Lead Architect specializing in high-performance 
 
 ---
 
-### 🚀 Flagship Project: [Project GHOST SHIP](https://github.com/SakuttoWorks/agent-commerce-portal)
+### 🚀 Flagship Project: [Project GHOST SHIP](https://github.com/SakuttoWorks/agent-commerce-gateway)
 **The Secure MCP Gateway for Autonomous Data Retrieval.**
 
 Project GHOST SHIP serves as a middleware layer that normalizes external web content into RAG-optimized formats (Markdown/JSON) for LLMs.
 
 - **Layer A: The Edge Gateway ([agent-commerce-gateway](https://github.com/SakuttoWorks/agent-commerce-gateway))**
-  - Low-latency SSE/MCP aggregation on Cloudflare Workers.
-  - **Security & Validation:** Request sanitization, schema validation, and rate-limiting via Polar.sh infrastructure.
+  - Low-latency SSE/MCP aggregation on **Cloudflare Workers**.
+  - **Security & Governance:** Request sanitization, schema validation, and rate-limiting via **Polar.sh**.
 - **Layer B: The Normalization Engine ([agent-commerce-core](https://github.com/SakuttoWorks/agent-commerce-core))**
-  - **Semantic Extraction:** Python 3.12+ environment on Google Cloud Run for parsing complex HTML.
-  - **LLM-Native Output:** Converts raw HTML into clean Markdown using semantic parsing logic.
-- **Layer C: The Data Vault (Supabase/R2)**
-  - Structured logging of tool execution results and transient cache storage.
+  - **Semantic Extraction:** Python 3.12+ environment on **Google Cloud Run** for parsing complex HTML.
+  - **LLM-Native Output:** Converts raw documentation into clean Markdown using semantic parsing logic.
+- **Layer C: Audit & Cache (Supabase)**
+  - Structured logging of tool execution results and ephemeral cache storage.
 
-### 🌍 Developer Hubs:
-- 👉 **[Billing & Access Portal (Lemon Squeezy)](https://sakuttoworks.lemonsqueezy.com/)**
-- 👉 **[Polar.sh (Infrastructure Quotas)](https://polar.sh/sakuttoworks)**
-- 👉 **[RapidAPI Documentation (Coming Soon)](#)**
+---
+
+### 🌍 Developer Hubs & Infrastructure
+- 👉 **[Polar.sh (API Quotas & Entitlements)](https://polar.sh/sakuttoworks)** - *Primary Governance Provider*
+- 👉 **[Project Documentation (llms.txt)](https://api.sakutto.works/llms.txt)**
 
 ---
 
 ### 🛠 Active MCP & API Assets
 
-| Component | Protocol | Description |
+| Component | Protocol | Role & Description |
 | :--- | :---: | :--- |
-| **GHOST-SHIP-GATEWAY** | MCP / SSE | Secure proxy for handling tool execution requests and schema validation. |
-| **AGENT-COMMERCE-CORE** | REST / JSON | Core engine for web-to-markdown conversion and data structuring. |
-| **SEMANTIC-EXTRACTOR** | MCP / REST | **(Formerly V3)** Domain-agnostic scraper for technical documentation and static sites. |
+| **GHOST-SHIP-GATEWAY** | MCP / SSE | **[Edge]** Secure proxy for handling tool execution requests and schema validation. |
+| **AGENT-COMMERCE-CORE** | REST / JSON | **[Core]** Heavy-lifting engine for web-to-markdown conversion and data structuring. |
+| **SEMANTIC-EXTRACTOR** | Python SDK | **[Lib]** Domain-agnostic scraper logic for technical documentation. |
 
 ---
 
@@ -47,14 +48,15 @@ Project GHOST SHIP serves as a middleware layer that normalizes external web con
 Optimized for AI Agents (AEO - Agent Engine Optimization).
 
 - [**llms.txt**](https://api.sakutto.works/llms.txt) : Context definitions for LLM crawlers.
-- [**mcp.json**](https://api.sakutto.works/mcp/mcp.json) : Dynamic tool definitions and endpoint discovery for MCP clients.
+- [**mcp.json**](https://api.sakutto.works/.well-known/mcp.json) : Dynamic tool definitions and endpoint discovery for MCP clients.
 
 ---
 
 ### 🛡 Engineering Principles (2026 Standard)
 - **Zero-Trust Logic:** Strict input validation at the edge; execution in isolated environments.
 - **Semantic Naming:** Every variable and endpoint is optimized for LLM self-documentation.
-- **Schema Compliance:** Strict adherence to predefined JSON schemas to prevent hallucinations.
+- **Schema Compliance:** Strict adherence to Pydantic v3 schemas to prevent hallucinations.
+- **Data Neutrality:** We provide the *pipe*, not the *advice*. Pure technical infrastructure.
 
 <p align="center">
   © 2026 Sakutto Works - Building the Semantic Web for Agents
