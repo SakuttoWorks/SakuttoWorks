@@ -21,15 +21,15 @@ Project GHOST SHIP serves as a middleware layer that normalizes external web con
   - Low-latency SSE/MCP aggregation on Cloudflare Workers.
   - **Security & Validation:** Request sanitization, schema validation, and rate-limiting via Polar.sh infrastructure.
 - **Layer B: The Normalization Engine ([agent-commerce-core](https://github.com/SakuttoWorks/agent-commerce-core))**
-  - **Semantic Extraction:** Python 3.13+ environment on Google Cloud Run for parsing complex HTML.
-  - **LLM-Native Output:** Converts raw HTML into clean Markdown using Jina Reader/Firecrawl logic.
+  - **Semantic Extraction:** Python 3.12+ environment on Google Cloud Run for parsing complex HTML.
+  - **LLM-Native Output:** Converts raw HTML into clean Markdown using semantic parsing logic.
 - **Layer C: The Data Vault (Supabase/R2)**
   - Structured logging of tool execution results and transient cache storage.
 
 ### 🌍 Developer Hubs:
-- 👉 **[Access API Portal (Lemon Squeezy)](https://sakuttoworks.lemonsqueezy.com/)**
+- 👉 **[Billing & Access Portal (Lemon Squeezy)](https://sakuttoworks.lemonsqueezy.com/)**
+- 👉 **[Polar.sh (Infrastructure Quotas)](https://polar.sh/sakuttoworks)**
 - 👉 **[RapidAPI Documentation (Coming Soon)](#)**
-- 👉 **[Polar.sh (infrastructure Access)](#)**
 
 ---
 
@@ -46,8 +46,8 @@ Project GHOST SHIP serves as a middleware layer that normalizes external web con
 ### 🤖 Machine-Readable Resources
 Optimized for AI Agents (AEO - Agent Engine Optimization).
 
-- [**llms.txt**](./llms.txt) : Context definitions for LLM crawlers.
-- [**mcp.json**](./mcp.json) : Dynamic tool definitions and endpoint discovery for MCP clients.
+- [**llms.txt**](https://api.sakutto.works/llms.txt) : Context definitions for LLM crawlers.
+- [**mcp.json**](https://api.sakutto.works/mcp/mcp.json) : Dynamic tool definitions and endpoint discovery for MCP clients.
 
 ---
 
