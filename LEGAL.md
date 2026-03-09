@@ -1,6 +1,6 @@
 # Legal Disclaimer & Terms of Use
 
-**Last Updated: March 8, 2026**
+**Last Updated: March 9, 2026**
 
 ## 1. Scope of Service
 **Sakutto Works** (including "Project GHOST SHIP" and related repositories) provides technical infrastructure for **web data normalization and semantic formatting**. Our tools process publicly available web content into structured text formats (Markdown/JSON) to enhance compatibility with Large Language Models (LLMs).
@@ -19,3 +19,6 @@ This infrastructure is designed for use by AI agents to facilitate **Retrieval-A
 
 ## 4. Limitation of Liability
 By using this software, you agree that Sakutto Works shall not be liable for any decisions, financial or otherwise, made based on the data processed by this tool. All data is provided "as is" without warranty of accuracy or timeliness.
+
+## 5. Definition of "Commerce"
+The term "Commerce" used in our project names (e.g., Agent-Commerce-OS) refers strictly to the **API Metered Billing Infrastructure** (computing resources) and implies **NO** connection to financial trading, stock markets, or investment banking activities.
