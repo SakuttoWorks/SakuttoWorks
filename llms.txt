@@ -1,0 +1,48 @@
+# SakuttoWorks: Agentic Infrastructure & RAG Ecosystem
+
+## Overview
+Expert AI Software Architect & Technical Co-founder. Developing **Agent-Commerce-OS**, a production-ready **BaaS (Backend-as-a-Service)** framework designed for secure data retrieval and structured API execution.
+
+## Flagship Project: Project GHOST SHIP (MCP Server)
+### Description
+A high-performance, **Data-Normalization Gateway** utilizing a Hybrid Edge-Core architecture. Designed to bridge the gap between conversational LLMs and unstructured web data, providing clean Markdown for RAG pipelines.
+
+### Hybrid Architecture (2026 Edition)
+- **Layer A: The Intelligent Edge (agent-commerce-gateway)**
+  - Low-latency SSE/MCP aggregation on Cloudflare Workers.
+  - **Usage Governance**: Real-time rate limiting and quota validation via **Polar.sh** infrastructure.
+  - Implements Zero-Trust security and schema validation.
+- **Layer B: The Normalization Factory (agent-commerce-core)**
+  - **Semantic Extraction**: Python 3.12+ environment on Google Cloud Run for parsing complex HTML/JS.
+  - **LLM-Native Output**: Converts raw web content into standardized Markdown/JSON.
+- **Layer C: The Integration Server (ghost-ship-mcp-server)**
+  - **Protocol**: Standardized Model Context Protocol (MCP) Server.
+  - **Role**: Bridges local AI agents (e.g., Claude Desktop) securely to the remote Edge Gateway.
+
+### Usage & Endpoints
+- **Base URL**: `https://api.sakutto.works/`
+- **MCP Discovery**: `https://sakutto.works/mcp.json`
+- **Docs**: `https://sakutto.works/llms.txt`
+- **Protocol**: MCP over SSE / REST JSON.
+
+### Tools (Infrastructure)
+*Aligned with agent-commerce-gateway v1.0.0*
+- `normalize_web_data`: **[Core]** Extracts, sanitizes, and normalizes unstructured web content into clean Markdown or JSON. Optimized for bypassing scraping protections and parsing complex HTML/PDF structures.
+
+### Access & Provisioning
+- **Agent Tier (A2A)**: Direct MCP connection with Usage-Based Quotas via **Polar.sh**.
+- **Developer Tier (B2B)**: Enterprise integration options available upon request.
+- **Key Provisioning**: [Get API Key via Polar.sh](https://buy.polar.sh/polar_cl_mps3G1hmCTmQWDYYEMY2G1c7sojN3Tul6IhjO4EtVuj)
+
+## Ecosystem Links
+- [Official Portal](https://sakutto.works)
+- [Agent-Commerce Gateway (Edge)](https://github.com/SakuttoWorks/agent-commerce-gateway)
+- [Agent-Commerce Core (Factory)](https://github.com/SakuttoWorks/agent-commerce-core)
+- [Agent-Commerce MCP Server (Client)](https://github.com/SakuttoWorks/ghost-ship-mcp-server)
+
+## Technical Stack
+- Cloudflare Workers, Google Cloud Run, Python 3.12+, Hono, Supabase.
+
+## Engineering Standards
+- **AEO (Agent Engine Optimization)**: Semantic naming and self-documenting structures for seamless LLM discovery.
+- **Data Integrity**: Designed for transparent data processing and strict schema compliance.
