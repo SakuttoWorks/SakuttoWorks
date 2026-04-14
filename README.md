@@ -7,30 +7,28 @@
   <a href="https://github.com/sponsors/SakuttoWorks"><img src="https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=github" alt="Sponsor on GitHub"></a>
 </p>
 
-> **"Bridging the gap between the unstructured web and LLM context windows."**
+> **"Transforming the unstructured web into pristine, RAG-optimized semantics for autonomous agents."**
 
 Welcome to the official GitHub organization profile for **Sakutto Works**. We architect high-performance, serverless infrastructure engineered exclusively for the agentic economy. 
 
-**This repository serves as the central hub and global entry point** for our flagship ecosystem: **Agent-Commerce-OS (Project GHOST SHIP)**. We provide a production-grade data normalization engine, empowering autonomous AI agents to seamlessly bypass scraping hurdles, extract, and ingest highly-structured web data (Markdown/JSON) via secure protocols like MCP.
+**This repository is the global entry point** for our flagship ecosystem: **Agent-Commerce-OS (Project GHOST SHIP)**. We provide a production-grade data normalization engine that empowers AI agents to seamlessly bypass scraping hurdles and ingest highly-structured web data (Markdown/JSON) through secure, Zero-Trust protocols.
 
 ---
 
 ### 🚀 Ecosystem Hub: Project GHOST SHIP
 **The Zero-Trust Data Normalization Infrastructure for Autonomous Agents.**
 
-Project GHOST SHIP operates on a strictly decoupled, three-tier hybrid architecture. As the central organization hub, you can navigate to our core repositories below to understand or deploy the infrastructure.
-
----
+Project GHOST SHIP operates on a strictly decoupled, three-tier hybrid architecture. Navigate through our core repositories below to explore or deploy the infrastructure:
 
 #### 🗺️ Repository Directory
-* 🌐 **[The Discovery Portal (`agent-commerce-portal`)](https://github.com/SakuttoWorks/agent-commerce-portal)**
+* 🌐 **[The Discovery Portal](https://github.com/SakuttoWorks/agent-commerce-portal)** (`agent-commerce-portal`)
   * **Entry Point:** The official web portal ([sakutto.works](https://sakutto.works)). Start here for API schemas, system status, and Agent Engine Optimization (AEO) discovery.
-* 🛡️ **[Layer A: The Edge Gateway (`agent-commerce-gateway`)](https://github.com/SakuttoWorks/agent-commerce-gateway)**
-  * **Role:** Cloudflare Workers perimeter defense. Handles prompt injection shielding and zero-latency asynchronous metered billing integration via Polar.sh.
-* 🏭 **[Layer B: The Core Engine (`agent-commerce-core`)](https://github.com/SakuttoWorks/agent-commerce-core)**
-  * **Role:** Google Cloud Run (Python/FastAPI) compute engine. Executes advanced semantic parsing to convert unstructured HTML into LLM-native Markdown/JSON.
-* 🔌 **[Layer C: The MCP Server (`ghost-ship-mcp-server`)](https://github.com/SakuttoWorks/ghost-ship-mcp-server)**
-  * **Role:** The official Model Context Protocol (MCP) server. Securely bridges local AI clients (e.g., Claude Desktop) directly to our remote network.
+* 🛡️ **[Layer A: The Edge Gateway](https://github.com/SakuttoWorks/agent-commerce-gateway)** (`agent-commerce-gateway`)
+  * **Role:** The Cloudflare Workers perimeter defense. Handles prompt injection shielding and zero-latency, asynchronous metered billing via Polar.sh.
+* 🏭 **[Layer B: The Core Engine](https://github.com/SakuttoWorks/agent-commerce-core)** (`agent-commerce-core`)
+  * **Role:** The Google Cloud Run (Python/FastAPI) compute factory. Executes advanced semantic parsing to convert unstructured HTML into pristine, LLM-native Markdown/JSON.
+* 🔌 **[Layer C: The MCP Server](https://github.com/SakuttoWorks/ghost-ship-mcp-server)** (`ghost-ship-mcp-server`)
+  * **Role:** The official Model Context Protocol (MCP) client layer. Securely bridges local AI agents (e.g., Claude Desktop) directly to our remote Edge network.
 
 ---
 
@@ -40,18 +38,18 @@ We operate on a transparent, pure **Pay-As-You-Go** model. No hidden fees, no fo
 
 ---
 
-### 💖 Support the Open Source Ecosystem & Keep Us Running
-**Agent-Commerce-OS** is a high-performance infrastructure layer built for the global open-source community. We believe in pure pay-as-you-go access and refuse to restrict developers behind expensive monthly paywalls. 
+### 💖 Fuel the Open Source Ecosystem
+**Agent-Commerce-OS** is built for the global open-source community. We believe in pure pay-as-you-go access and strictly refuse to lock developers behind expensive monthly paywalls. 
 
-However, running zero-latency Edge gateways and intensive semantic parsing engines incurs significant cloud compute costs. If our infrastructure has saved you engineering hours, prevented AI hallucinations, or scaled your autonomous workflows, **we need your support to keep the servers running.**
+However, running zero-latency Edge gateways and intensive semantic parsing engines requires significant cloud compute resources. If our infrastructure has saved you engineering hours, prevented AI hallucinations, or successfully scaled your autonomous workflows, **please consider supporting our mission.**
 
-**How your support directly fuels the ecosystem:**
-- ⚡ **Guarantees High Availability:** Directly funds our Google Cloud Run compute and Cloudflare Edge routing.
-- 🚀 **Accelerates R&D:** Enables us to build and release advanced extraction pipelines (e.g., bypassing novel anti-bot protections, native PDF parsing).
+**How your support makes a direct impact:**
+- ⚡ **Ensures High Availability:** Directly funds our Google Cloud Run compute and Cloudflare Edge routing traffic.
+- 🚀 **Accelerates R&D:** Empowers us to research and release advanced extraction pipelines (e.g., bypassing novel anti-bot protections, native PDF parsing).
 
-**Make an Impact Today:**
-* ☕ **[Drop a One-Time Tip via Polar.sh](https://buy.polar.sh/polar_cl_ZI9H5fL8dQqcormOadiGDFDpS2Sxd1jT05jTX1vStWi)** — Chip in instantly to help us cover this month's API bandwidth. Even a small tip makes a massive difference.
-* 🌟 **[Become a GitHub Sponsor](https://github.com/sponsors/SakuttoWorks)** — Join our core backers to fuel long-term development and gain priority consideration for new feature requests.
+**Back the Project Today:**
+* ☕ **[Drop a One-Time Tip via Polar.sh](https://buy.polar.sh/polar_cl_ZI9H5fL8dQqcormOadiGDFDpS2Sxd1jT05jTX1vStWi)** — Chip in instantly to help us cover API bandwidth. Even a small tip makes a massive difference.
+* 🌟 **[Become a GitHub Sponsor](https://github.com/sponsors/SakuttoWorks)** — Join our core backers to fund long-term development and gain priority consideration for new feature requests.
 
 ---
 
@@ -64,13 +62,13 @@ Our infrastructure is natively optimized for Agent Engine Optimization (AEO). AI
 
 ---
 
-### 🏁 Getting Started & Local Setup
-To integrate **Agent-Commerce-OS** into your autonomous workflows or set it up locally, follow these quick steps:
+### 🏁 Getting Started
+To integrate **Agent-Commerce-OS** into your autonomous workflows, follow these quick steps:
 
 1. **Obtain an API Key**: Secure your metered API key via our [Polar.sh Checkout](https://buy.polar.sh/polar_cl_mps3G1hmCTmQWDYYEMY2G1c7sojN3Tul6IhjO4EtVuj).
-2. **Connect the MCP Server**: Clone and configure the [`ghost-ship-mcp-server`](https://github.com/SakuttoWorks/ghost-ship-mcp-server) locally for your AI agents (e.g., Claude Desktop).
-3. **Start Querying**: Point your agents to our Edge Gateway and begin normalizing complex web data instantly. Detailed API documentation is available at our [Official Portal](https://sakutto.works).
-4. **Local Development**: If you wish to run the Core Engine or Edge Gateway locally for development or debugging, please refer to the specific setup instructions within the [`agent-commerce-core`](https://github.com/SakuttoWorks/agent-commerce-core) and [`agent-commerce-gateway`](https://github.com/SakuttoWorks/agent-commerce-gateway) repositories.
+2. **Connect the MCP Server**: Clone and configure the [`ghost-ship-mcp-server`](https://github.com/SakuttoWorks/ghost-ship-mcp-server) for your local AI agents (e.g., Claude Desktop).
+3. **Start Querying**: Point your agents to our Edge Gateway and begin normalizing complex web data instantly. Read the full API documentation at our [Official Portal](https://sakutto.works).
+4. **Local Development**: To run the Core Engine or Edge Gateway locally for debugging, please refer to the setup instructions within the [`agent-commerce-core`](https://github.com/SakuttoWorks/agent-commerce-core) and [`agent-commerce-gateway`](https://github.com/SakuttoWorks/agent-commerce-gateway) repositories.
 
 ---
 
