@@ -65,8 +65,13 @@ Our infrastructure is natively optimized for Agent Engine Optimization (AEO). AI
 ### 🏁 Getting Started
 To integrate **Agent-Commerce-OS** into your autonomous workflows, follow these quick steps:
 
+**Prerequisites:**
+- **Node.js** (v18 or higher) for the MCP Server and Edge Gateway.
+- **Python** (3.10 or higher) for Core Engine development.
+- **Claude Desktop** or any standard MCP-compatible client.
+
 1. **Obtain an API Key**: Secure your metered API key via our [Polar.sh Checkout](https://buy.polar.sh/polar_cl_mps3G1hmCTmQWDYYEMY2G1c7sojN3Tul6IhjO4EtVuj).
-2. **Connect the MCP Server**: Clone and configure the [`ghost-ship-mcp-server`](https://github.com/SakuttoWorks/ghost-ship-mcp-server) for your local AI agents (e.g., Claude Desktop).
+2. **Connect the MCP Server**: Clone the [`ghost-ship-mcp-server`](https://github.com/SakuttoWorks/ghost-ship-mcp-server) and configure your MCP client (e.g., adding the server path to your `claude_desktop_config.json`).
 3. **Start Querying**: Point your agents to our Edge Gateway and begin normalizing complex web data instantly. Read the full API documentation at our [Official Portal](https://sakutto.works).
 4. **Local Development**: To run the Core Engine or Edge Gateway locally for debugging, please refer to the setup instructions within the [`agent-commerce-core`](https://github.com/SakuttoWorks/agent-commerce-core) and [`agent-commerce-gateway`](https://github.com/SakuttoWorks/agent-commerce-gateway) repositories.
 
