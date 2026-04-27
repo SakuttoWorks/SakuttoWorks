@@ -1,13 +1,12 @@
 # Sakutto Works | Agent-First Data Infrastructure
 
-<p align="left">
-  <a href="https://sakutto.works"><img src="https://img.shields.io/badge/Official_Portal-sakutto.works-black?style=for-the-badge" alt="Official Portal"></a>
-  <a href="https://buy.polar.sh/polar_cl_mps3G1hmCTmQWDYYEMY2G1c7sojN3Tul6IhjO4EtVuj"><img src="https://img.shields.io/badge/Get_API_Key-Polar.sh-blue?style=for-the-badge" alt="Get API Key"></a>
-  <a href="https://buy.polar.sh/polar_cl_ZI9H5fL8dQqcormOadiGDFDpS2Sxd1jT05jTX1vStWi"><img src="https://img.shields.io/badge/Tip_via-Polar.sh-success?style=for-the-badge" alt="Tip via Polar.sh"></a>
-  <a href="https://github.com/sponsors/SakuttoWorks"><img src="https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=github" alt="Sponsor on GitHub"></a>
-</p>
+[![Official Portal](https://img.shields.io/badge/Official_Portal-sakutto.works-000000?style=for-the-badge)](https://sakutto.works)
+[![ghost-ship-mcp-server MCP server](https://glama.ai/mcp/servers/SakuttoWorks/ghost-ship-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/SakuttoWorks/ghost-ship-mcp-server)
+[![Available on RapidAPI](https://img.shields.io/badge/Available_on-RapidAPI-005571?style=for-the-badge&logo=rapid)](https://rapidapi.com/SakuttoWorks/api/agent-commerce-os)
+[![Get API Key](https://img.shields.io/badge/Get_API_Key-Polar.sh-blue?style=for-the-badge)](https://buy.polar.sh/polar_cl_mps3G1hmCTmQWDYYEMY2G1c7sojN3Tul6IhjO4EtVuj)
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=github)](https://github.com/sponsors/SakuttoWorks)
 
-> **"Transforming the unstructured web into pristine, RAG-optimized semantics for autonomous agents."**
+**"Transforming the unstructured web into pristine, RAG-optimized semantics for autonomous agents."**
 
 Welcome to the official GitHub organization profile for **Sakutto Works**. We architect high-performance, serverless infrastructure engineered exclusively for the agentic economy. 
 
